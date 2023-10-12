@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 36 d8 d3 ed 31 5b f9-1b e4 59 ae 09 43 0d a2</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Dual98.vmx</vmxPathName></VM></Foundry>

@@ -1,0 +1,22 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=fffffffe
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "Dual98-s001.vmdk"
+RW 8323072 SPARSE "Dual98-s002.vmdk"
+RW 131072 SPARSE "Dual98-s003.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "ide"
+ddb.geometry.cylinders = "16383"
+ddb.geometry.heads = "16"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "7015ee4967a4a63d609e25bbfffffffe"
+ddb.uuid = "60 00 C2 97 52 79 80 a0-36 dd e1 d9 ab 65 9d d8"
+ddb.virtualHWVersion = "20"
